@@ -101,7 +101,7 @@ nav a:hover {
 }
 
 /* Media query for smaller screens */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
     header {
         padding: 10px;
         flex-direction: column; /* Stack items vertically */
@@ -168,7 +168,7 @@ nav a:hover {
     line-height: 40px; /* Center the text vertically */
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
     .swiper-button-prev, .swiper-button-next {
         visibility: hidden;
 
@@ -320,7 +320,7 @@ nav a:hover {
     height: auto;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
 
     .modal-content {
         width: 100%!important;
@@ -405,7 +405,7 @@ nav a:hover {
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
     .aboutme-container {
         text-align: center;
         padding-top: 5rem;
@@ -517,7 +517,7 @@ nav a:hover {
      line-height: 1;
      font-weight: 700;
  }
- @media screen and (max-width: 580px){
+ @media screen and (max-width: 1080px){
      .hero-section .dancing{
          font-size: 18px;
      }
@@ -572,7 +572,7 @@ nav a:hover {
 
  
 
- @media screen and (max-width: 768px) {
+ @media screen and (max-width: 1080px) {
     .hero-section h1{
         color: #fff;
         font-size: 10vw;
